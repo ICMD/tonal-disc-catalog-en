@@ -48,21 +48,21 @@ Brad Mehldau, Darek Oleszkiewicz, Justin Meldal-Johnsen, Jon Brion, Matt Chamber
 Thom Yorke, Jonny Greenwood, Ed O'Brien, Colin Greenwood, Phil Selway
 05. Paranoid Android
   Brad Mehldau, piano, vibes, prepared piano
-  Jon Brion, guitar synthesizer, guitar treatments, percussion
   Jim Keltner, drums, snare drum, vibraphone
   Matt Chamberlain, drums, percussion, tabla
   Darek Oleszkiewicz, bass
+  Jon Brion, guitar synthesizer, guitar treatments, percussion
 
 Brad Mehldau
 06. Franklin Avenue
   Brad Mehldau, piano, vibes, prepared piano
+  Jim Keltner, drums, snare drum, vibraphone
+  Matt Chamberlain, drums, percussion, tabla
+  Darek Oleszkiewicz, bass
   Daniel Kelley, french horn
   Philip Yao, french horn
   William Reichenbach, trombone
   George B. Thatcher, bass trombone
-  Jim Keltner, drums, snare drum, vibraphone
-  Matt Chamberlain, drums, percussion, tabla
-  Darek Oleszkiewicz, bass
 
 07. Sabbath
   Brad Mehldau, piano, vibes, prepared piano
@@ -84,21 +84,17 @@ Brad Mehldau, Chamberlain, Larry Grenadier, Jorge Rossy
 
 Brad Mehldau
 10. Alvarado
-  Brad Mehldau, piano, vibes, prepared piano
-  Justin Meldal-Johnsen, electric bass
-  Victor Indrizzo, drums, percussion
-  Jim Keltner, drums, snare drum, vibraphone
-  Matt Chamberlain, drums, percussion, tabla
-  Darek Oleszkiewicz, bass
+  - Jon Brion
+  + Jim Keltner, drums, snare drum, vibraphone
 
 Paul McCartney, John Lennon, Antonio Carlos Jobim
 11. Wave/Mother Nature's Son
   Brad Mehldau, piano, vibes, prepared piano
   Justin Meldal-Johnsen, electric bass
-  Jon Brion, guitar synthesizer, guitar treatments, percussion
   Victor Indrizzo, drums, percussion
   Matt Chamberlain, drums, percussion, tabla
   Darek Oleszkiewicz, bass
+  Jon Brion, guitar synthesizer, guitar treatments, percussion
 
 Brad Mehldau
 12. I Do
